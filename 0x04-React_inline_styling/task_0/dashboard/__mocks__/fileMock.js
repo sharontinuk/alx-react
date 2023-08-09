@@ -1,1 +1,1 @@
-qwert
+module.exports = {};
